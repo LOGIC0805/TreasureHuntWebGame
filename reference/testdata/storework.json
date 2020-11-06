@@ -1,0 +1,32 @@
+{
+  "RECORDS": [
+    {
+      "phonenum": "1",
+      "worklevel": 2,
+      "workname": "狩猎网格",
+      "workprice": "1000.0",
+      "worktype": "machine"
+    },
+    {
+      "phonenum": "3",
+      "worklevel": 2,
+      "workname": "澄澈之水",
+      "workprice": "1000.0",
+      "worktype": "pliers"
+    },
+    {
+      "phonenum": "3",
+      "worklevel": 2,
+      "workname": "青竹",
+      "workprice": "1000.0",
+      "worktype": "shovel"
+    },
+    {
+      "phonenum": "123",
+      "worklevel": 8,
+      "workname": "传说",
+      "workprice": "100000000.0",
+      "worktype": "knife"
+    }
+  ]
+}

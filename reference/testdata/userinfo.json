@@ -1,0 +1,52 @@
+{
+  "RECORDS": [
+    {
+      "luckylevel": 1,
+      "money": "1000.0",
+      "password": "111",
+      "phonenum": "123",
+      "username": "TestLogin",
+      "worklevel": 1
+    },
+    {
+      "luckylevel": 3,
+      "money": "1000.0",
+      "password": "1",
+      "phonenum": "1",
+      "username": "TestTakeoff_Shelf",
+      "worklevel": 5
+    },
+    {
+      "luckylevel": 1,
+      "money": "1000.0",
+      "password": "2",
+      "phonenum": "2",
+      "username": "TestDaily",
+      "worklevel": 1
+    },
+    {
+      "luckylevel": 1,
+      "money": "1000.0",
+      "password": "3",
+      "phonenum": "3",
+      "username": "TestSell",
+      "worklevel": 1
+    },
+    {
+      "luckylevel": 1,
+      "money": "100000.0",
+      "password": "4",
+      "phonenum": "4",
+      "username": "TestBuy",
+      "worklevel": 1
+    },
+    {
+      "luckylevel": 1,
+      "money": "1000.0",
+      "password": "11",
+      "phonenum": "11",
+      "username": "TestForget_Wear",
+      "worklevel": 1
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "RECORDS": [
+    {
+      "luckylevel": 3,
+      "luckyname": "深红之网",
+      "luckyprice": "1000.0",
+      "luckytype": "stone",
+      "phonenum": "1"
+    },
+    {
+      "luckylevel": 3,
+      "luckyname": "深红之网",
+      "luckyprice": "1000.0",
+      "luckytype": "crystal",
+      "phonenum": "3"
+    },
+    {
+      "luckylevel": 2,
+      "luckyname": "都市伪装",
+      "luckyprice": "1000.0",
+      "luckytype": "crystal",
+      "phonenum": "3"
+    },
+    {
+      "luckylevel": 8,
+      "luckyname": "传说",
+      "luckyprice": "100000000.0",
+      "luckytype": "stone",
+      "phonenum": "123"
+    }
+  ]
+}

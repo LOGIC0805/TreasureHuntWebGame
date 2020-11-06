@@ -1,0 +1,88 @@
+{
+  "RECORDS": [
+    {
+      "phonenum": "1",
+      "worklevel": 2,
+      "workname": "超导体",
+      "workstate": 1,
+      "worktype": "machine"
+    },
+    {
+      "phonenum": "1",
+      "worklevel": 2,
+      "workname": "狩猎网格",
+      "workstate": 2,
+      "worktype": "machine"
+    },
+    {
+      "phonenum": "123",
+      "worklevel": 2,
+      "workname": "枯焦之色",
+      "workstate": 1,
+      "worktype": "machine"
+    },
+    {
+      "phonenum": "123",
+      "worklevel": 8,
+      "workname": "传说",
+      "workstate": 2,
+      "worktype": "knife"
+    },
+    {
+      "phonenum": "123",
+      "worklevel": 3,
+      "workname": "深红之网",
+      "workstate": 0,
+      "worktype": "knife"
+    },
+    {
+      "phonenum": "3",
+      "worklevel": 2,
+      "workname": "澄澈之水",
+      "workstate": 2,
+      "worktype": "pliers"
+    },
+    {
+      "phonenum": "3",
+      "worklevel": 2,
+      "workname": "青竹",
+      "workstate": 2,
+      "worktype": "shovel"
+    },
+    {
+      "phonenum": "4",
+      "worklevel": 2,
+      "workname": "澄澈之水",
+      "workstate": 0,
+      "worktype": "pliers"
+    },
+    {
+      "phonenum": "11",
+      "worklevel": 2,
+      "workname": "人工染色",
+      "workstate": 0,
+      "worktype": "knife"
+    },
+    {
+      "phonenum": "1",
+      "worklevel": 8,
+      "workname": "传说",
+      "workstate": 0,
+      "worktype": "knife"
+    },
+    {
+      "phonenum": "11",
+      "worklevel": 2,
+      "workname": "澄澈之水",
+      "workstate": 1,
+      "worktype": "knife"
+    },
+    {
+      "phonenum": "11",
+      "worklevel": 2,
+      "workname": "狩猎网格",
+      "workstate": 1,
+      "worktype": "knife"
+    }
+  ]
+}

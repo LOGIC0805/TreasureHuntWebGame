@@ -1,0 +1,244 @@
+{
+  "RECORDS": [
+    {
+      "endnum_possibility": 80,
+      "luckylevel": 2,
+      "name": "外表生锈",
+      "possibility": 0.08,
+      "startnum_possibility": 0,
+      "worklevel": 2
+    },
+    {
+      "endnum_possibility": 160,
+      "luckylevel": 2,
+      "name": "人工染色",
+      "possibility": 0.08,
+      "startnum_possibility": 80,
+      "worklevel": 2
+    },
+    {
+      "endnum_possibility": 230,
+      "luckylevel": 2,
+      "name": "枯焦之色",
+      "possibility": 0.07,
+      "startnum_possibility": 160,
+      "worklevel": 2
+    },
+    {
+      "endnum_possibility": 296,
+      "luckylevel": 2,
+      "name": "狩猎网格",
+      "possibility": 0.066,
+      "startnum_possibility": 230,
+      "worklevel": 2
+    },
+    {
+      "endnum_possibility": 362,
+      "luckylevel": 2,
+      "name": "北方森林",
+      "possibility": 0.066,
+      "startnum_possibility": 296,
+      "worklevel": 2
+    },
+    {
+      "endnum_possibility": 428,
+      "luckylevel": 2,
+      "name": "都市伪装",
+      "possibility": 0.066,
+      "startnum_possibility": 362,
+      "worklevel": 2
+    },
+    {
+      "endnum_possibility": 494,
+      "luckylevel": 2,
+      "name": "澄澈之水",
+      "possibility": 0.066,
+      "startnum_possibility": 428,
+      "worklevel": 2
+    },
+    {
+      "endnum_possibility": 554,
+      "luckylevel": 2,
+      "name": "黑色层压板",
+      "possibility": 0.06,
+      "startnum_possibility": 494,
+      "worklevel": 2
+    },
+    {
+      "endnum_possibility": 614,
+      "luckylevel": 2,
+      "name": "超导体",
+      "possibility": 0.06,
+      "startnum_possibility": 554,
+      "worklevel": 2
+    },
+    {
+      "endnum_possibility": 674,
+      "luckylevel": 2,
+      "name": "青竹",
+      "possibility": 0.06,
+      "startnum_possibility": 614,
+      "worklevel": 2
+    },
+    {
+      "endnum_possibility": 709,
+      "luckylevel": 3,
+      "name": "深红之网",
+      "possibility": 0.035,
+      "startnum_possibility": 674,
+      "worklevel": 3
+    },
+    {
+      "endnum_possibility": 744,
+      "luckylevel": 3,
+      "name": "紫罗兰",
+      "possibility": 0.035,
+      "startnum_possibility": 709,
+      "worklevel": 3
+    },
+    {
+      "endnum_possibility": 779,
+      "luckylevel": 3,
+      "name": "夜色",
+      "possibility": 0.035,
+      "startnum_possibility": 744,
+      "worklevel": 3
+    },
+    {
+      "endnum_possibility": 814,
+      "luckylevel": 3,
+      "name": "蓝钢",
+      "possibility": 0.035,
+      "startnum_possibility": 779,
+      "worklevel": 3
+    },
+    {
+      "endnum_possibility": 849,
+      "luckylevel": 3,
+      "name": "噩梦之夜",
+      "possibility": 0.035,
+      "startnum_possibility": 814,
+      "worklevel": 3
+    },
+    {
+      "endnum_possibility": 884,
+      "luckylevel": 3,
+      "name": "自由之手",
+      "possibility": 0.035,
+      "startnum_possibility": 849,
+      "worklevel": 3
+    },
+    {
+      "endnum_possibility": 899,
+      "luckylevel": 4,
+      "name": "皎月之光",
+      "possibility": 0.015,
+      "startnum_possibility": 884,
+      "worklevel": 4
+    },
+    {
+      "endnum_possibility": 914,
+      "luckylevel": 4,
+      "name": "潘多拉之盒",
+      "possibility": 0.015,
+      "startnum_possibility": 899,
+      "worklevel": 4
+    },
+    {
+      "endnum_possibility": 929,
+      "luckylevel": 4,
+      "name": "黯翼",
+      "possibility": 0.015,
+      "startnum_possibility": 914,
+      "worklevel": 4
+    },
+    {
+      "endnum_possibility": 944,
+      "luckylevel": 4,
+      "name": "迈阿密风云",
+      "possibility": 0.015,
+      "startnum_possibility": 929,
+      "worklevel": 4
+    },
+    {
+      "endnum_possibility": 959,
+      "luckylevel": 4,
+      "name": "京城之韵",
+      "possibility": 0.015,
+      "startnum_possibility": 944,
+      "worklevel": 4
+    },
+    {
+      "endnum_possibility": 966,
+      "luckylevel": 5,
+      "name": "绿宝石(水晶)",
+      "possibility": 0.007,
+      "startnum_possibility": 959,
+      "worklevel": 5
+    },
+    {
+      "endnum_possibility": 973,
+      "luckylevel": 5,
+      "name": "红宝石(水晶)",
+      "possibility": 0.007,
+      "startnum_possibility": 966,
+      "worklevel": 5
+    },
+    {
+      "endnum_possibility": 980,
+      "luckylevel": 5,
+      "name": "蓝宝石(水晶)",
+      "possibility": 0.007,
+      "startnum_possibility": 973,
+      "worklevel": 5
+    },
+    {
+      "endnum_possibility": 987,
+      "luckylevel": 5,
+      "name": "紫宝石(水晶)",
+      "possibility": 0.007,
+      "startnum_possibility": 980,
+      "worklevel": 5
+    },
+    {
+      "endnum_possibility": 990,
+      "luckylevel": 6,
+      "name": "渐变大理石",
+      "possibility": 0.003,
+      "startnum_possibility": 987,
+      "worklevel": 6
+    },
+    {
+      "endnum_possibility": 993,
+      "luckylevel": 6,
+      "name": "渐变之色",
+      "possibility": 0.003,
+      "startnum_possibility": 990,
+      "worklevel": 6
+    },
+    {
+      "endnum_possibility": 996,
+      "luckylevel": 7,
+      "name": "多普勒",
+      "possibility": 0.003,
+      "startnum_possibility": 993,
+      "worklevel": 7
+    },
+    {
+      "endnum_possibility": 999,
+      "luckylevel": 7,
+      "name": "伽马",
+      "possibility": 0.003,
+      "startnum_possibility": 996,
+      "worklevel": 7
+    },
+    {
+      "endnum_possibility": 1000,
+      "luckylevel": 8,
+      "name": "传说",
+      "possibility": 0.001,
+      "startnum_possibility": 999,
+      "worklevel": 8
+    }
+  ]
+}
