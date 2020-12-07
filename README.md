@@ -1,5 +1,5 @@
 # TreasureHuntWebGame
-Treasure hunt game online.
+Treasure hunt game online by flask.
 
 考虑以下游戏场景：
 1.	每个游戏玩家都有一定数量的金币、宝物。有一个市场供玩家们买卖宝物。玩家可以将宝物放到市场上挂牌，自己确定价格。其他玩家支付足够的金币，可购买宝物。
