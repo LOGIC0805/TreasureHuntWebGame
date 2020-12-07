@@ -1,0 +1,184 @@
+{
+  "RECORDS": [
+    {
+      "name": "外表生锈",
+      "level": "2",
+      "startnum": "0",
+      "endnum": "80"
+    },
+    {
+      "name": "人工染色",
+      "level": "2",
+      "startnum": "80",
+      "endnum": "160"
+    },
+    {
+      "name": "枯焦之色",
+      "level": "2",
+      "startnum": "160",
+      "endnum": "230"
+    },
+    {
+      "name": "狩猎网格",
+      "level": "2",
+      "startnum": "230",
+      "endnum": "296"
+    },
+    {
+      "name": "北方森林",
+      "level": "2",
+      "startnum": "296",
+      "endnum": "362"
+    },
+    {
+      "name": "都市伪装",
+      "level": "2",
+      "startnum": "362",
+      "endnum": "428"
+    },
+    {
+      "name": "澄澈之水",
+      "level": "2",
+      "startnum": "428",
+      "endnum": "494"
+    },
+    {
+      "name": "黑色层压板",
+      "level": "2",
+      "startnum": "494",
+      "endnum": "554"
+    },
+    {
+      "name": "超导体",
+      "level": "2",
+      "startnum": "554",
+      "endnum": "614"
+    },
+    {
+      "name": "青竹",
+      "level": "2",
+      "startnum": "614",
+      "endnum": "674"
+    },
+    {
+      "name": "深红之网",
+      "level": "3",
+      "startnum": "674",
+      "endnum": "709"
+    },
+    {
+      "name": "紫罗兰",
+      "level": "3",
+      "startnum": "709",
+      "endnum": "744"
+    },
+    {
+      "name": "夜色",
+      "level": "3",
+      "startnum": "744",
+      "endnum": "779"
+    },
+    {
+      "name": "蓝钢",
+      "level": "3",
+      "startnum": "779",
+      "endnum": "814"
+    },
+    {
+      "name": "噩梦之夜",
+      "level": "3",
+      "startnum": "814",
+      "endnum": "849"
+    },
+    {
+      "name": "自由之手",
+      "level": "3",
+      "startnum": "849",
+      "endnum": "884"
+    },
+    {
+      "name": "皎月之光",
+      "level": "4",
+      "startnum": "884",
+      "endnum": "899"
+    },
+    {
+      "name": "潘多拉之盒",
+      "level": "4",
+      "startnum": "899",
+      "endnum": "914"
+    },
+    {
+      "name": "黯翼",
+      "level": "4",
+      "startnum": "914",
+      "endnum": "929"
+    },
+    {
+      "name": "迈阿密风云",
+      "level": "4",
+      "startnum": "929",
+      "endnum": "944"
+    },
+    {
+      "name": "京城之韵",
+      "level": "4",
+      "startnum": "944",
+      "endnum": "959"
+    },
+    {
+      "name": "绿宝石(水晶)",
+      "level": "5",
+      "startnum": "959",
+      "endnum": "966"
+    },
+    {
+      "name": "红宝石(水晶)",
+      "level": "5",
+      "startnum": "966",
+      "endnum": "973"
+    },
+    {
+      "name": "蓝宝石(水晶)",
+      "level": "5",
+      "startnum": "973",
+      "endnum": "980"
+    },
+    {
+      "name": "紫宝石(水晶)",
+      "level": "5",
+      "startnum": "980",
+      "endnum": "987"
+    },
+    {
+      "name": "渐变大理石",
+      "level": "6",
+      "startnum": "987",
+      "endnum": "990"
+    },
+    {
+      "name": "渐变之色",
+      "level": "6",
+      "startnum": "990",
+      "endnum": "993"
+    },
+    {
+      "name": "多普勒",
+      "level": "7",
+      "startnum": "993",
+      "endnum": "996"
+    },
+    {
+      "name": "伽马",
+      "level": "7",
+      "startnum": "996",
+      "endnum": "999"
+    },
+    {
+      "name": "传说",
+      "level": "8",
+      "startnum": "999",
+      "endnum": "1000"
+    }
+  ]
+}

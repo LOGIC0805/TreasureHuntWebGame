@@ -1,0 +1,203 @@
+{
+  "RECORDS": [
+    {
+      "state": 1,
+      "phonenum": "1",
+      "name": "人工染色",
+      "typename": "stone",
+      "flag": "0",
+      "price": "",
+      "level": 2
+    },
+    {
+      "state": 2,
+      "phonenum": "1",
+      "name": "深红之网",
+      "typename": "stone",
+      "flag": "0",
+      "price": "1000.0",
+      "level": 3
+    },
+    {
+      "state": 0,
+      "phonenum": "123",
+      "name": "外表生锈",
+      "typename": "stone",
+      "flag": "0",
+      "price": "",
+      "level": 2
+    },
+    {
+      "state": 2,
+      "phonenum": "123",
+      "name": "传说",
+      "typename": "stone",
+      "flag": "0",
+      "price": "100000000.0",
+      "level": 8
+    },
+    {
+      "state": 2,
+      "phonenum": "3",
+      "name": "都市伪装",
+      "typename": "crystal",
+      "flag": "0",
+      "price": "1000.0",
+      "level": 2
+    },
+    {
+      "state": 2,
+      "phonenum": "3",
+      "name": "深红之网",
+      "typename": "crystal",
+      "flag": "0",
+      "price": "1000.0",
+      "level": 3
+    },
+    {
+      "state": 0,
+      "phonenum": "4",
+      "name": "深红之网",
+      "typename": "crystal",
+      "flag": "0",
+      "price": "",
+      "level": 3
+    },
+    {
+      "state": 0,
+      "phonenum": "11",
+      "name": "枯焦之色",
+      "typename": "stone",
+      "flag": "0",
+      "price": "",
+      "level": 2
+    },
+    {
+      "state": 0,
+      "phonenum": "1",
+      "name": "传说",
+      "typename": "stone",
+      "flag": "0",
+      "price": "",
+      "level": 8
+    },
+    {
+      "state": 1,
+      "phonenum": "11",
+      "name": "都市伪装",
+      "typename": "stone",
+      "flag": "0",
+      "price": "",
+      "level": 2
+    },
+
+    {
+      "state": 1,
+      "phonenum": "1",
+      "name": "超导体",
+      "typename": "machine",
+      "flag": "1",
+      "price": "",
+      "level": 2
+    },
+    {
+      "state": 2,
+      "phonenum": "1",
+      "name": "狩猎网格",
+      "typename": "machine",
+      "flag": "1",
+      "price": "1000.0",
+      "level": 2
+    },
+    {
+      "state": 1,
+      "phonenum": "123",
+      "name": "枯焦之色",
+      "typename": "machine",
+      "flag": "1",
+      "price": "",
+      "level": 2
+    },
+    {
+      "state": 2,
+      "phonenum": "123",
+      "name": "传说",
+      "typename": "knife",
+      "flag": "1",
+      "price": "100000000.0",
+      "level": 8
+    },
+    {
+      "state": 0,
+      "phonenum": "123",
+      "name": "深红之网",
+      "typename": "knife",
+      "flag": "1",
+      "price": "",
+      "level": 3
+    },
+    {
+      "state": 2,
+      "phonenum": "3",
+      "name": "澄澈之水",
+      "typename": "pliers",
+      "flag": "1",
+      "price": "1000.0",
+      "level": 2
+    },
+    {
+      "state": 2,
+      "phonenum": "3",
+      "name": "青竹",
+      "typename": "shovel",
+      "flag": "1",
+      "price": "1000.0",
+      "level": 2
+    },
+    {
+      "state": 0,
+      "phonenum": "4",
+      "name": "澄澈之水",
+      "typename": "pliers",
+      "flag": "1",
+      "price": "",
+      "level": 2
+    },
+    {
+      "state": 0,
+      "phonenum": "11",
+      "name": "人工染色",
+      "typename": "knife",
+      "flag": "1",
+      "price": "",
+      "level": 2
+    },
+    {
+      "state": 0,
+      "phonenum": "1",
+      "name": "传说",
+      "typename": "knife",
+      "flag": "1",
+      "price": "",
+      "level": 8
+    },
+    {
+      "state": 1,
+      "phonenum": "11",
+      "name": "澄澈之水",
+      "typename": "knife",
+      "flag": "1",
+      "price": "",
+      "level": 2
+    },
+    {
+      "state": 1,
+      "phonenum": "11",
+      "name": "狩猎网格",
+      "typename": "knife",
+      "flag": "1",
+      "price": "",
+      "level": 2
+    }
+  ]
+}
